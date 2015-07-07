@@ -1,4 +1,4 @@
-Customizing Output/Markup in Cucumber Formatters
+Cucumber Demo
 ================================================
 
 This is an example cucumber project with some very simple examples.
