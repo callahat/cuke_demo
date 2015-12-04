@@ -23,3 +23,7 @@ Exercise 1
 ----------
 In small groups of 2-3 people, come up with some acceptance scenarios to for a feature (such as login, or registration,
  or the flight reservation) of the site above. Note that the website may be a bit buggy and/or quirky.
+
+Exercise 2
+----------
+Implement some of the scenarios using the browser object and watir methods.
