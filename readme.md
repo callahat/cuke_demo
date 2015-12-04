@@ -31,3 +31,7 @@ Implement some of the scenarios using the browser object and watir methods.
 Exercise 3
 ----------
 Implement a Page Object class to represent the page(s) under test
+
+Exercise 4
+----------
+Use the page objects in place of directly interacting with Watir objects (@browser) in your step definitions.
