@@ -1,3 +1,4 @@
+@firefox
 Feature: As a user
          I want to be able to register
          So I can use the website
