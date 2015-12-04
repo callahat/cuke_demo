@@ -27,3 +27,7 @@ In small groups of 2-3 people, come up with some acceptance scenarios to for a f
 Exercise 2
 ----------
 Implement some of the scenarios using the browser object and watir methods.
+
+Exercise 3
+----------
+Implement a Page Object class to represent the page(s) under test
