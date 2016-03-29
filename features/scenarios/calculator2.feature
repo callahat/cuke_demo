@@ -3,17 +3,8 @@ Feature: Addition
   As a mathematician
   I want to be told the sum of two numbers
 
-  Scenario: Regular numbers
-    Given I have entered 3 into the calculator
-    And I have entered 2 into the calculator
-    When I add
-    Then the result should be 5 on the screen
-
-  Scenario: Floating point numbers
-    Given I have entered 3.5 into the calculator
-    And I have entered 5.2 into the calculator
-    When I add
-    Then the result should be 8.7 on the screen
+  Background:
+    Given I have a calculator
 
   @runme
   Scenario Outline: Add numbers

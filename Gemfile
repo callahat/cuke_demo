@@ -1,4 +1,8 @@
 source "https://rubygems.org"
 
-gem 'page-object'
-gem 'cucumber', "=1.3.15"
+gem 'cucumber'
+gem 'capybara'
+gem 'cucumber_statistics'
+gem 'poltergeist'
+gem 'pry'
+gem 'selenium-webdriver'
