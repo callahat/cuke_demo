@@ -14,8 +14,7 @@ Feature: Addition
     And I have entered 5.2 into the calculator
     When I add
     Then the result should be 8.7 on the screen
-
-  @runme
+    
   Scenario Outline: Add numbers
     Given I have entered <x> into the calculator
     And I have entered <y> into the calculator
